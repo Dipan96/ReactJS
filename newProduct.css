@@ -1,0 +1,262 @@
+p{
+    margin-bottom: 0%      !important;
+}
+#productBody{
+    /* background-color: red; */
+    width: 100%;
+    height: 900px;
+    margin-top: 5%;
+    padding: 4%;
+    padding-top: 2%;
+    
+}
+#productLeft{
+width:70%;
+background-color: white;
+float: left;
+border-radius: 5px;
+padding: 2%;
+}
+#productRight{
+    /* float: right; */
+    /* background-color: azure; */
+    margin-left: 2%;
+    float: left;
+    width: 28%;
+    border: 3px solid #c8c8c8;
+    border-radius: 3px;
+}
+#productImg{
+    float: left;
+    width: 30%;
+    /* background-color: aqua; */
+}
+#productLeft img{
+    width:80%;
+    height: 300px;
+}
+#productDetails{
+    /* position: absolute; */
+    padding-left: 5%;    
+    /* background-color: blue; */
+    /* float: left; */
+    width: 99%;
+}
+#productTitle{
+    font-weight: bold;
+    font-size: 120%;
+}
+#productPages,#productPublic,#productAuthor{
+    color:#5e5d5d;
+}
+#NoproductPages{
+    display: none;
+}
+#NopublicationDate{
+    display: none;
+}
+#productPublicName,#productAuthorName{
+    color: black;
+}
+#ProductisbnFormat{
+    width: 100%;
+
+}
+#ProducteditionLanguage span,#ProductisbnFormat span{
+    /* width: 80%;
+    background-color: brown; */
+    /* margin-right: 25%; */
+    /* margin: 0% 5%; */
+}
+#edition{
+    float: right; 
+    margin-right: 35.3%; 
+}
+#language{
+    float: left;
+    margin-right: 20.5%;
+}
+
+#rack_no{
+    /* float: right;  */
+    margin-left: 27.3%; 
+}
+#NOrack_no{
+    display: none;
+}
+#Noisbn{
+    display: none;
+}
+#Noedition{
+    display: none;
+}
+#PincodeChecker{
+    display: inline;
+    float: right;
+    width:50%;
+    border-bottom: 1px solid #00baf2;
+    margin-bottom: 5%;
+    /* background-color: aqua; */
+}
+#checkButton{
+    /* float: right; */
+    background-color: transparent;
+    color: #00baf2;
+    /* display: inline; */
+    border:0px;
+    padding: 1%;
+    margin-top: 3%;
+}
+#InputPincodeChecker{
+    float: left;
+    width: 70%;
+    border:none;
+}
+#productleftBottom{
+    /* background-color: blue; */
+    margin-top: 15%;
+    height: 300px;
+    border:3px solid #c8c8c8;
+    border-radius: 5px;
+
+}
+#productleftBottom p{
+    background-color: #00baf2;
+    color: white;
+    padding: 1%
+}
+#Productdescription{
+    text-align: center;
+    width: 50%;
+    /* padding: 0% 20%; */
+    /* border-right: 1px solid white; */
+    
+}
+#NoproductleftBottom{
+    display: none;
+}
+#Productreviews{
+    float: right;
+    padding: 0% 20%;
+}
+#productleftBottomData{
+    padding: 1%;
+    /* background-color: #00baf2; */
+}
+#productRightBook{
+    background-color: #00baf2;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+    padding: .5% 0%;
+    
+}
+
+#productRightFirstPart{
+    background-color: white;
+
+}
+#productRightdetails{
+    padding: 0% 5%;
+}
+#productRightdetailsSoldOut{
+    padding: 0% 5%;
+    height: 250px;
+    /* background-color: #e26127; */
+}
+#SoldOut{
+    text-align: center;
+    /* padding: 10%; */
+    font-size: 120%;
+    color: red;
+    padding: 2%;
+    margin-top: 10%;    
+}
+#slectedColor{
+    color: #00baf2;
+}
+#NotifyMeBtn{
+    color: white;
+    background-color: #00baf2;
+    padding: 1%;
+    border:none;
+    font-size: 70%;
+    font-weight: bold;
+    width: 30%;
+    margin: 1%;
+    border-radius: 3px;
+}
+#productMRP{
+    padding-left: 1%;
+    font-size: 120%;
+    color: #bdbdbd;
+    margin-top: 4%;
+}
+#productPrice{
+    text-decoration: line-through;
+    color: black;
+}
+#productFREE{
+    color: #e26127;
+    font-weight: bold;
+    padding-left: 1%;
+}
+#productShipping{
+    text-align: center;
+    margin-right: 53%;
+    font-size: 95%;
+}
+#productShippingCost{
+    margin-left: 3%;
+    position: absolute;
+    margin-top: -1%;
+}
+#productRightCond{
+    margin-top: 2%;
+}
+#productRightCond input{
+    width: 10%;
+   
+}
+
+#productRightDelivered{
+    text-align: center;
+    padding-bottom: 5%;
+}
+#AddToCartBtn{
+    color: white;
+    background-color: #00baf2;
+    padding: 1%;
+    border:none;
+    font-size: 120%;
+    font-weight: bold;
+    width: 90%;
+    margin-bottom: 4%;
+}
+/* #productleftBottom p span{
+    width: 50%;
+} */
+/* #productleftBottomRight,#productleftBottomLeft{
+    width: 50%;
+    background-color: aquamarine;
+    float: left;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+    height: 300px; 
+}
+/* #productleftBottomRight{
+    width: 50%;
+    float: left;
+    color: white;
+} */
+/*#productleftBottomRight p,#productleftBottomLeft p{
+    background-color: #00baf2;
+    padding: 1%;
+}
+#productleftBottomLeft p{
+    border-right: 2px solid white;
+}
+#descriptiondata{
+    color: #00baf2;
+}*/

@@ -1,0 +1,29 @@
+#My-Wishlist {
+  width: 150px;
+  height: 27px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black);
+  margin-top: 5%;
+  margin-left: 2%;
+}
+#div3 {
+  width: 94%;
+  height: 110px;
+  background-color: white;
+  margin-top: 1%;
+  margin-left: 3%;
+}
+#div2 {
+  width: 97%;
+  height: 100%;
+  margin-top: -1%;
+  background-color: white;
+  margin-left: 1%;
+}

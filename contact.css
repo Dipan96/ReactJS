@@ -1,0 +1,149 @@
+.div1{
+	position: absolute;
+	height: 86%;
+  width: 64.4%;
+  background-color: white;
+  margin-left: 17.3%;
+  margin-right: 18.2%;
+  margin-top: 12.6%;
+  margin-bottom: 5.5%;
+}
+
+.div2{
+  position: absolute;
+  margin-left: 625px;
+  margin-right: 40px;
+  margin-top: -68px;
+  margin-bottom: -158px;
+}
+.align1{
+  position: absolute;
+  margin-left: 36px;
+  margin-top: 10px;
+
+}
+.align2{
+  position: absolute;
+    margin-left: -807px;
+    margin-right: 67px;
+    margin-top: 37px;
+}
+.align3{
+  position: absolute;
+  margin-left: 37px;
+  margin-top: -29px;
+}
+
+.linkstyle{
+  color: #13dafe;
+  font-family: helvetica;
+  font-size: 14px;
+  text-decoration: none; 
+}
+
+.txtstyle1{
+  color:black;
+}
+.txtstyle2{
+  color:#ee851f;
+}
+.txtstyle3{
+  color:#4b4b4b;
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.tbox1{
+  width: 793px;
+  height: 33px;
+  margin-left: 34px;
+  margin-bottom: 16px;
+  margin-top: -9px;
+  border-radius: 7px;
+  border-style:solid;
+  border-color: darkgray;
+  padding-left: 8px;
+  }
+  .tbox2{
+    width: 803px;
+    height: 166px;
+    margin-left: 34px;
+    margin-top: 9px;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: darkgrey;
+  }
+  .tbox3{
+    width: 795px;
+    height: 30px;
+    margin-left: 34px;
+    margin-bottom: 2px;
+    margin-top: -11px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: darkgray;
+    padding-left: 7px;
+  }
+
+  .box3{
+    width: 108px;
+    height: 37px;
+    
+    margin-left: 726px;
+    margin-top: 12px;
+    background-color: #13dafe;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    border-radius: 7px;
+  border-style:solid;
+    color: white;
+    border-color: #13dafe;
+  }
+  
+
+.contact-us{
+position: absolute;
+  height: 27px;
+  width: 179px;
+  margin-left: 34px;
+  margin-top: 6px;
+  font-family: Helvetica;
+  font-size: 36px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black);
+  }
+
+  .style2{
+    width: 562px;
+    height: 14px;
+    margin-top: 46px;
+    margin-left: 38px;
+    font-family: helvetica;
+    font-size: 12px;
+    
+    
+  }
+  
+.style3{
+  width: 215px;
+  height: 31px;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color:#656565;}

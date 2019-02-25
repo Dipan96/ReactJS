@@ -1,0 +1,64 @@
+#boy{
+    position: absolute;
+    margin-top: 312px;
+    left: 626px;
+    z-index:2 ;
+}
+
+#girl{
+    position: absolute;
+    left: 488px;
+    top: 65px;
+
+}
+#man{
+    position: absolute;
+    margin-top: 88px;
+    left: 753px;
+}
+
+#error{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 462px;
+    z-index: 1;
+}
+
+#layer1{
+    position: absolute;
+    margin-top: 277px;
+    margin-left: 330px;
+    width: 688px;
+    height: 128px;
+    font-family: Helvetica;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: 138;
+    line-height: 7;
+    letter-spacing: normal;
+    /* text-align: -webkit-center; */
+    color: white;
+}
+#layer2{
+    position: absolute;
+    width: 642px;
+    height: 36px;
+    font-family: Helvetica;
+    font-size: 33px;
+    font-weight: bold;
+    margin-left: 376px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 31;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+}
+
+#linkstyle{
+    font-family: helvetica;
+    font-size: 33px;
+    text-decoration: none; 
+    color: white;
+}

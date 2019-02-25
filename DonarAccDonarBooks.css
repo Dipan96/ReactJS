@@ -1,0 +1,481 @@
+*{
+  font-family: Helvetica;
+}
+
+.Your-Account1 {
+
+  width: 45%;
+
+  height: 11%;
+
+  font-family: Helvetica;
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  margin-left: 103px;
+
+   margin-top: 80px;
+
+  color: var(--black);
+
+}
+
+.Your-Orders-Books-Donations1 {
+
+  width: 79%;
+
+  height: 50%;
+
+  font-family: Helvetica;
+
+  font-size: 163%;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+margin-left: 102px;
+   margin-top: 43px;
+
+  color: var(--black);
+
+}
+.Search-All-Orders-Books-Donations1 {
+
+  width: 70%;
+
+  height: 50%;
+
+  font-family: Helvetica;
+
+  font-size: 163%;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+   margin-left: 719px;
+    margin-top: 43px;
+
+  color: var(--black);
+
+}
+#Layer-3 {
+
+  width: 306px;
+
+  height: 28px;
+
+  margin-left: 374px;
+ border-radius:5px;
+}
+
+.Orders1 {
+
+  width: 50px;
+
+  height: 16px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+
+  color: var(--black);
+
+ 
+
+
+}
+
+#Layer-4 {
+
+  width: 99px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 10px;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-6 {
+
+  width: 120px;
+
+  height: 35px;
+
+  background-color: lightgreen;
+
+ color: black;
+ margin-left: 10px;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-7 {
+
+  width: 120px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 10px;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-5 {
+
+  width: 68%;
+
+  height: 30px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ text-align: center;
+ border:none;
+ border-radius: 5px;
+}
+.Open-Orders1 {
+  width: 280px;
+  height: 21px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+
+}
+.Cancelled-Orders1 {
+
+  width: 180px;
+
+  height: 21px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: var(--black);
+
+}
+
+.Book-Donations1 {
+
+  width: 176px;
+
+  height: 16px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+
+
+  color: var(--black);
+
+}
+.Donation-Request1 {
+
+  width: 175px;
+
+  height: 21px;
+
+  font-family: Helvetica;
+
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+
+  color: var(--black);
+
+}
+
+.Donated-Books1 {
+
+  width: 149px;
+
+  height: 16px;
+
+  font-family: Helvetica;
+
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: var(--black);
+
+}
+
+
+.table {
+   width:69%;
+   margin-left: 180px;
+}
+
+.Donation-Request {
+
+  width: 280px;
+
+  height: 21px;
+
+  font-family: Helvetica;
+
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: var(--black);
+
+}
+.All-Donation-Requests {
+
+  width: 218px;
+
+  height: 22px;
+
+  font-family: Helvetica;
+
+  font-size: 2px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: var(--black);
+
+}
+
+.table2 {
+  border-collapse: collapse;
+  width: 99%;
+  text-align: right;
+}
+.hr{
+  width:96%;
+
+}
+.hr1{
+  width:86%;
+  margin-left: 13%;
+
+ }
+
+.All-Donation-Requests {
+
+  width: 218%;
+
+  height: 21px;
+
+  font-family: Helvetica;
+
+  font-size: 22px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  margin-left: 281px;
+
+  color: var(--black);
+
+}
+#Donation-Request {
+
+  width: 172px;
+
+  height: 21px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: var(--black);
+
+}
+.Donated-Books {
+  width: 100px;
+  height: 16px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+
+  color: var(--black);
+}
+
+#ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 12%;
+  background-color: #F8F8FF;;
+  position: absolute;
+  height: 100%;
+  overflow: auto;
+ 
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #38ACEC;
+  color: (--black);
+}
+
+
+.div1 {
+  border: 1px white;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-bottom: 7%;
+  height:100%;
+  background-color:white ;
+  margin-top: 0%;
+
+}
+#heading{
+  border-bottom: 1px solid grey;
+  
+  
+}

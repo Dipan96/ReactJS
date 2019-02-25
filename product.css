@@ -1,0 +1,580 @@
+/* CSS Document of Product Page
+   for more refer README- sayan_final.md */
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#main-content {
+	width:70%;
+  height:365px;
+  /* background-color: #00baf2; */
+	/*margin-left: 63px;
+	margin-top:44px;*/
+  margin: 44px auto 0 auto;
+  float: left;
+}
+
+.Layer-1 {
+width: 100%;
+  height:55px;
+  background-color:rgb(32,51,107);
+ /*#20336b*/
+}
+.book {
+	height: 300px; 
+	width: 23%;
+	float: left;
+}
+
+.details {
+	width:50%;
+	float: left;
+	padding-right: 0;
+  margin-right: 0;
+  /* background-color: #e26127; */
+}
+.title {
+  width: 80%;
+  height: 60px;
+  font-family: Helvetica;
+  font-size: 31px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+  margin-bottom: 28px;
+}
+.Author {
+ width: 74px;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #838181;
+  margin-right: 20px;
+}
+.Arun-Sharma {
+  width: 147px;
+  height: 20px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-two);
+}
+
+.Publication {
+  width: 120px;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #9e9e9e;
+}
+
+.McGraw-Hill-Education {
+  width: 251px;
+  height: 20px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-two);
+  margin-left:24px;
+}
+.Layer-32 {
+	width:95%;
+	margin-bottom: 23px;
+
+}
+.Layer-32-copy {
+  width:95%;
+  margin-top:23px;
+}
+.other-details {
+	margin-top:27px;
+	display: inline-block;
+	float: left;
+}
+.ISBN, .Format, .Edition, .Language {
+  width: 43px;
+  height: 13px;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #aaaaaa;
+}
+.inner-p1, .inner-p2 {
+	margin-bottom: 15px;
+}
+ .isbn-number, .format-number, .edition-number, .language-number{
+  width: 140px;
+  height: 13px;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-two);
+  margin-right: 53px;
+}
+.other-details .p1 {
+	float: left;
+   
+}
+.other-details .p2 {
+	float: left;
+}
+#used-new-books {
+	width:24%;
+	height:400px;
+	float: right;
+	margin-left: 0;
+	padding-left: 0;
+  box-shadow:1px 1px 1px 1px rgba(0,0,0,0.2);
+  /* background-color: #333333; */
+  margin-top: 44px;
+}
+.details h3 {
+	width:100%;
+}
+.first-div {
+	width: 100%;
+	height:38px;
+}
+.content-1{
+	width:100%;
+	height: 400px;
+}
+.first-div h1 {
+	height: 38px;
+	background-color:rgb(0,186,242);
+}
+.Used-Books {
+  text-align: center;
+  width: 100%;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  color: white;
+}
+.mrp-details {
+  width:100%;
+  /* background-color: blanchedalmond; */
+}
+.mrp-details p {
+	margin-top:15px;
+}
+.MRP {
+  width: 53px;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #949393;
+  margin-left: 35px;
+}
+ .mrp-price
+ {
+  width: 53px;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #080808;
+  text-decoration: line-through;
+}
+.free {
+  width: 91px;
+  height: 26px;
+  font-family: Helvetica;
+  font-size: 28.5px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #e26127;
+  margin-left: 24px;
+}
+.Pay-Only {
+  width: 67px;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+  margin-left: 50px;
+}
+.Shipping-Handling {
+  width: 150px;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+  margin-left: 15px;
+
+}
+.Select-Book-Condition {
+  width: 136px;
+  height: 11px;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+  
+}
+/*.first-div p {
+	margin-left: 35px;
+}*/
+#pay-only {
+margin-top:18px;
+}
+
+.book-condition {
+	margin-top:7px;
+	margin-left: 25px;
+}
+.first-div ul{
+	margin-top: 5px;
+}
+.first-div ul li {
+	list-style-type: none;
+	margin-left: 50px;
+	height: 11px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    margin-top: 5px;
+    color: var(--black-three);
+}
+i{
+  width: 12px;
+  height: 12px;
+  background-color: var(--warm-grey-two);
+  margin-right: 5px;
+}
+.hr-1 {
+	 width:90%;
+	 margin:5px auto 0 auto;
+}
+.hr-2 {
+	width:90%;
+	margin:20px auto 5px auto;
+}
+.Delivered-in-4-7-days {
+  width: 182px;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black);
+  margin: 5px auto 5px auto;
+}
+.button {
+	display: block;
+	margin: 15px auto 5px auto;
+	width:80%;
+	height: 45px;
+	background-color:rgb(0,186,242);
+	border-radius: 5px;
+	border:none;
+}
+
+.Add-to-Cart {
+  width: 136px;
+  height: 18px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: white;
+}
+#content-1 {
+	height:320px;
+	width:96.5%;
+	margin:0 0 0 45px;
+}
+#tab {
+	  float: left;
+    height:320px;
+  	width:68%;
+    border:1px solid grey;
+}
+#tab-titles {
+	float: left;
+	width:49.7%;
+	border-right: 1px solid white;
+	background-color:rgb(0,186,242);
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+}
+#tab-titles1 {
+	float: right;
+	width:49.7%;
+	/* border-right: 1px solid white; */
+	background-color:rgb(0,186,242);
+	text-align: center;
+	height: 50px;
+	line-height: 50px;
+}
+.tab-titles1 {
+	border-right: none;
+}
+.description {
+  width: 122px;
+  height: 24px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: white/*#e9e9e9*/;
+  cursor: pointer;
+}
+#used-new-books-2 {
+	width:24%;
+	height:450px;
+	float: right;
+  margin-left: 0;
+  /* margin-right: 3%; */
+	padding-left: 0;
+  box-shadow:1px 1px 1px 1px rgba(0,0,0,0.2);
+  /* margin-top: 1%; */
+}
+#used-new-books-2 h1 {
+	height: 38px;
+	background-color:rgb(0,186,242);
+	text-align: center;
+}
+.new-books {
+  width: 125px;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: white;
+}
+.mrp-price-1
+ {
+  width: 53px;
+  height: 19px;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #080808;
+}
+.You-Saved {
+  width: 106px;
+  height: 14px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #949393;
+}
+.used-new-books-p {
+	margin:5px 0 0 35px;
+}
+.rs-145 {
+  width: 47px;
+  height: 14px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+}
+.Off {
+  width: 65px;
+  height: 11px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+  margin-left: 25px;
+}
+.Delevery-Charge {
+  width: 124px;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a09f9f;
+}
+
+ .rs-40 {
+  width: 35px;
+  height: 10px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+}
+.Delivery-charge-p {
+	margin-left: 35px;
+	margin-top: 5px;
+}
+.Free-Delivery-For-New-Books-Order-Value-More-Than {
+  width: 91%;
+  height: 11px;
+  font-family: Helvetica;
+  font-size: 11px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #00baf2;
+  margin:10px auto 0 auto;
+}
+.hr-3 {
+	margin: 10px auto 15px auto;
+	width: 90%;
+}
+
+.Amount-Payble {
+  width: 100%;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #a09f9f;
+  margin-left:35px;
+}
+.hr-4 {
+	margin:15px auto 10px auto;
+	width: 97%;
+}
+.Overall-You-Save-20-For-This-Product {
+  width: 294px;
+  height: 12px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black-three);
+  margin: 10px auto 15px auto;
+}

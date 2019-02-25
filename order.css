@@ -1,0 +1,443 @@
+*{
+  font-family: Helvetica;
+}
+
+#Your-Account {
+
+  width: 45%;
+
+  height: 11%;
+
+  font-family: Helvetica;
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  margin-left: 103px;
+
+   margin-top: 70px;
+
+  color: var(--black);
+
+}
+
+#Your-Orders-Books-Donations {
+
+  width: 79%;
+
+  height: 50%;
+
+  font-family: Helvetica;
+
+  font-size: 163%;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+margin-left: 102px;
+   margin-top: 43px;
+
+  color: var(--black);
+
+}
+#Search-All-Orders-Books-Donations {
+
+  width: 70%;
+
+  height: 50%;
+
+  font-family: Helvetica;
+
+  font-size: 163%;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+   margin-left: 719px;
+    margin-top: 43px;
+
+  color: var(--black);
+
+}
+
+
+ #Layer-3 {
+
+  width: 306px;
+
+  height: 28px;
+
+  margin-left: 307px;
+ border-radius:5px;
+}
+
+
+#Layer-4 {
+
+  width: 99px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 10px;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-7 {
+
+  width: 120px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 10px;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-8 {
+
+  width: 120px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 46%;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-9 {
+
+  width: 172px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 64%;
+ border:none;
+ border-radius: 5px;
+ margin-top: -3%;
+ position: absolute;
+}
+#Layer-10 {
+
+  width: 172px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 64%;
+ border:none;
+ border-radius: 5px;
+ position: absolute;
+ margin-top: -0.35%;
+}
+#Layer-11 {
+
+  width: 172px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 64%;
+ border:none;
+ border-radius: 5px;
+ position: absolute;
+ margin-top: 2.34%;
+}
+#Layer-12 {
+
+  width: 172px;
+
+  height: 35px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ margin-left: 64%;
+ border:none;
+ border-radius: 5px;
+ position: absolute;
+ margin-top: 5%;
+}
+#Layer-6 {
+
+  width: 120px;
+
+  height: 35px;
+
+  background-color:lightgreen;
+
+ color: black;
+ margin-left: 10px;
+ border:none;
+ border-radius: 5px;
+}
+#Layer-5 {
+
+  width: 68%;
+
+  height: 30px;
+
+  background-color: #38ACEC;
+
+ color: white;
+ text-align: center;
+ border:none;
+ border-radius: 5px;
+}
+#Orders {
+
+  width: 50px;
+
+  height: 16px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+
+  color: var(--black);
+
+ }
+#Open-Orders {
+  width: 280px;
+  height: 21px;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+
+}
+#Cancelled-Orders {
+
+  width: 180px;
+
+  height: 21px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: var(--black);
+
+}
+
+#Book-Donations {
+
+  width: 176px;
+
+  height: 16px;
+
+  font-family: Helvetica;
+
+  font-size: 20px;
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+
+
+  color: var(--black);
+
+}
+
+#table {
+   width:69%;
+   margin-left: 180px;
+}
+
+#hr{
+  width:90%;
+
+}
+
+#hr1{
+  width:99%;
+
+}
+#div1 {
+  border: 1px white;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-bottom: 1%;
+  height:100%;
+  background-color:white ;
+  margin-top: 1%;
+
+}
+#Orders-Placed-In {
+  width: 123px;
+  height: 12px;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black);
+  margin-left: 5%;
+}
+#select{
+	width:10%;
+	margin-left: 1%;
+	height:40px;
+	background-color: #38ACEC;
+	border-radius: 4px;
+	color: white;
+}
+#select1{
+	width:174px;
+	margin-left: 71.1%;
+	height:40px;
+	background-color: #38ACEC;
+	border-radius: 5px;
+	color: white;
+	margin-top: 8.50%;
+}
+#op{
+	background-color: gray ;
+	width:10%;
+	border-radius: 4px;
+	height:20px;
+	color: (--black);
+	text-align: center;
+}
+#Payment-Method {
+  width: 119px;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black);
+  margin-left: 7%;
+}
+#Order-Status {
+  width: 85px;
+  height: 11px;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--black);
+  margin-left: 7%
+}
+#Order-Placed {
+  
+  height: 11px;
+  font-family: Helvetica;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 2%;
+}
+#Shipped-To {
+  width: 80px;
+  height: 15px;
+  font-family: Helvetica;
+  font-size: 16px;
+  text-align: left;
+  margin-left: 13%;
+ 
+}
+#dt{
+	margin-left: 11.8%;
+}
+#dt1{
+	margin-left: 10.8%;
+}
+#dt2{
+	margin-left: 10.5%;
+}
+#dt3{
+	margin-left: 16.5%;
+	font-size: 15px;
+}
