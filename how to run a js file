@@ -1,0 +1,15 @@
+Make Changes in the App.js file everytime you want to run a code or a new js script in visual studio code
+ import React, { Component } from 'react';
+import logo from './logo.svg'
+import [File name first letter in caps] from './Filename.js';
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+       <[File name first letter in caps]/>
+      </div>
+    );
+  }
+}
+
+export default App;
