@@ -1,0 +1,212 @@
+#div1{
+    width: 1365px;
+    height: 329px;
+  color:gray;
+}
+
+#pos{
+    position: absolute;
+    margin-left:-14%;
+}
+
+#vidpos{
+    width: 22%;
+    height: 53.2%;
+    margin-left: 299%;
+    margin-top: 61%;
+}
+#layer1{
+    width: 442px;
+    height: 21px;
+    margin-left: 404px;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+#layer2{
+    width: -1px;
+    height: 15px;
+    font-family: Helvetica;
+    font-size: 20.5px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 33;
+    margin-left: 250px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f8911e;
+}
+
+#layer3{
+    width: 217px;
+    height: 45px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4d4d4d;
+}
+ #quality{
+    width: -1px;
+    height: 15px;
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 20.5px;
+    font-weight: normal;
+    margin-left: 24px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 30;
+    margin-top: -4px;
+    margin-left: 500px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f8911e;
+ }
+
+ #shipment{
+    width: -1px;
+    height: 15px;
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 20.5px;
+    font-weight: normal;
+    margin-left: 24px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 30;
+    margin-top: -4px;
+    margin-left: 777px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f8911e;
+ }
+
+#donar{
+    width: 217px;
+    height: 45px;
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    margin-top: 312px;
+    font-stretch: normal;
+    margin-left: 251px;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4d4d4d;
+}
+
+#group{
+    position: absolute;
+    width: 217px;
+    height: 45px;
+    font-family: Helvetica;
+    font-size: 14px;
+    margin-top: 312px;
+    margin-left: 500px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4d4d4d;
+}
+
+#ship{
+    position: absolute;
+    width: 217px;
+    height: 45px;
+    font-family: Helvetica;
+    font-size: 14px;
+    margin-top: 312px;
+    margin-left: 777px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4d4d4d;
+}
+
+#pack{
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 14px;
+    margin-top: 313px;
+    margin-left: 1031px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #4d4d4d;
+    width: 181px;
+    height: 62px;
+}
+ #packing{
+    width: -1px;
+    height: 15px;
+    position: absolute;
+    font-family: Helvetica;
+    font-size: 20.5px;
+    font-weight: normal;
+    margin-left: 88px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 30;
+    margin-top: -4px;
+    margin-left: 1031px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #f8911e;
+
+ }
+#donarimg{
+    width: 80px;
+    position: absolute;
+    height: 58px;
+    margin-top: 275px;
+    margin-left: 293px;
+}
+
+#groupimg{
+    width: 80px;
+    position: absolute;
+    height: 58px;
+    margin-top: 227px;
+    margin-left: 558px;
+}
+
+#shipmentimg{
+    width: 53px;
+    height: 70px;
+    margin-left: 857px;
+    margin-top: 213px;
+    position: absolute;
+}
+
+#packingimg{
+    width: 71px;
+    height: 71px;
+    margin-left: 1056px;
+    margin-top: 213px;
+    position: absolute;
+}
